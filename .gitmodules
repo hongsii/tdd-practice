@@ -1,0 +1,4 @@
+[submodule "java-racingcar"]
+	path = java-racingcar
+	url = https://github.com/hongsii/java-racingcar.git
+	branch = hongsii
