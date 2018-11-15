@@ -2,3 +2,7 @@
 	path = java-racingcar
 	url = https://github.com/hongsii/java-racingcar.git
 	branch = hongsii
+[submodule "java-lotto"]
+	path = java-lotto
+	url = https://github.com/hongsii/java-lotto.git
+	branch = hongsii
