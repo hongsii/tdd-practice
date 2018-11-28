@@ -10,3 +10,6 @@
 	path = java-ladder
 	url = https://github.com/hongsii/java-ladder.git
     branch = hongsii
+[submodule "java-qna-atdd"]
+	path = java-qna-atdd
+	url = https://github.com/hongsii/java-qna-atdd.git
