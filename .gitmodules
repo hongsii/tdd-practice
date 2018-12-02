@@ -13,3 +13,6 @@
 [submodule "java-qna-atdd"]
 	path = java-qna-atdd
 	url = https://github.com/hongsii/java-qna-atdd.git
+[submodule "java-bowling"]
+	path = java-bowling
+	url = https://github.com/hongsii/java-bowling.git
